@@ -1,0 +1,2 @@
+print("Woy")
+print("Oy")
